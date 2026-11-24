@@ -39,7 +39,7 @@ def keep_alive():
 
 # --- Configuration ---
 TOKEN = '8981699293:AAGb0uj6yNDVQC3Kq2IThCLpr1eeMloDjNA'
-OWNER_ID = 8981699293
+OWNER_ID = 8380139605
 ADMIN_ID = 6534289796
 YOUR_USERNAME = '@West_Bangla'
 UPDATE_CHANNEL = 'https://t.me/ssQvs'
